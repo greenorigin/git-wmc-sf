@@ -11,16 +11,16 @@
   "success_url": "/",
   "env": {
     "CLIENT_ID": {
-      "description": "Your connected app's Consumer Key",
+      "description": "3MVG9HxRZv05HarSoNS5skK0Dmj9h82iHXYGE96HpN_pZBNmMOeITuzbAXmZAwKvW2WP.vHwyx.fgx_HAIAn6",
       "required": true
     },
     "CLIENT_SECRET": {
-      "description": "Your connected app's Consumer Secret",
+      "description": "3374889567301148585",
       "required": true
     },
     "REDIRECT_URI": {
       "description": "Your connected app's Callback URL",
-      "value": "https://your-app.herokuapp.com/oauth/_callback",
+      "value": "https://localhost:3000",
       "required": true
     }
   }
